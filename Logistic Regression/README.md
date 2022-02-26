@@ -1,6 +1,6 @@
 # Logistic Regression
 
-**Objective: **
+**Objective:**
 
 Implement the logistic regression algorithm and apply it to two different datasets.
 
