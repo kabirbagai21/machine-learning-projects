@@ -4,12 +4,13 @@
 
  Understand support vector machines (SVMs) and use them to build a spam classifier.
  
-  *Part 1*
+  *Part 1:*
+  
   Use support vector machines (SVMs) with various example 2D datasets to gain an intuition of how SVMs work and how to use a Gaussian kernel with SVMs
   
-  *Part 2*
+  *Part 2:*
   
-  Training a classifier to classify whether a given email, x, is spam (y=1) or non-spam (y=0). 
+  Training a classifier to classify whether a given email, `x`, is spam `(y=1)` or non-spam `(y=0)`. 
    
  **Data**
  
