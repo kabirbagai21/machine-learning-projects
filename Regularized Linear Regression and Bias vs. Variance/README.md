@@ -18,9 +18,9 @@ Dataset contains historical records on the change in the water level, x, and the
 
 This dataset is divided into three parts:
 
-- A training set that your model will learn on: X, y
-- A cross validation set for determining the regularization parameter: Xval, yval
-- A test set for evaluating performance. These are 'unseen' examples which your model did not see during training: Xtest, ytest
+- A training set that your model will learn on: `X`, `y`
+- A cross validation set for determining the regularization parameter: `Xval`, `yval`
+- A test set for evaluating performance. These are 'unseen' examples which your model did not see during training: `Xtest`, `ytest`
 
 **Topics Covered**
 
