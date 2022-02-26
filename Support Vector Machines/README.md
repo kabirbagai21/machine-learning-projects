@@ -16,7 +16,7 @@
  
   The dataset included for this exercise is based on a a subset of the SpamAssassin Public Corpus. 
   For the purpose of this project, only the body of the email (excluding the email headers) is used. Each email is preprocessed and 
-  converted into a feature vector x∈ℝ^n
+  converted into a feature vector. 
 
 **Topics Covered**
 
