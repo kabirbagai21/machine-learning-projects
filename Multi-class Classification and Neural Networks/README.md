@@ -2,10 +2,12 @@
 
 **Objective**
 
-*Part 1* 
+*Part 1:*
+
 Implement one-vs-all logistic regression to recognize hand-written digits from 0 to 9.
 
-*Part 2*
+*Part 2:*
+
 Complete the same task as above this time using the feedforward propogation algorithm for neural networks.
 
 **Data**
